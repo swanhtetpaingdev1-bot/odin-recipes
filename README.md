@@ -1,1 +1,1 @@
-"Odin's Recipe Project to reflect the HTML lessons"
+"Odin's Recipe Project to reflect on the HTML lessons"
