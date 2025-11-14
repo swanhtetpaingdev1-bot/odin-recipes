@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(31, 30, 30);
+    color: rgb(255, 250, 250);
+    margin: 20px;
+    align-items: center;
+    padding: 5px;
+    margin-top: 50px;
+
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 20px;
+    width: 300px;
+    box-sizing: border-box;
+    background-color: rgb(232, 233, 179);
+    font-size: 20px;
+}
+
+.header-links {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin-left: 20px;
+}
+
+h4 {
+    font-size: 30px;
+    margin-left: 10px;
+    border-bottom: 2px solid black;
+    width: fit-content;
+    padding: 2px;margin-bottom: 5px;
+}
+
+p {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-indent: 2em;
+}
+
+.ingredients_and_steps {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.home {
+    background-color: black;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 10px;
+    left: 12px;
+    border-radius: 10px;
+}
+
+#Section {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+img {
+    flex-grow: 1;
+    margin: 5px;
+}
